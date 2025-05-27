@@ -9,7 +9,9 @@ The goal of this dashboard is to empower HR professionals and leadership teams w
 This HR Dashboard leverages data science techniques to provide comprehensive insights into workforce metrics, enabling data-driven decision-making in human resource management. The dashboard integrates and visualizes key HR indicators such as employee turnover, headcount, recruitment efficiency, diversity, and employee performance. By utilizing statistical analysis, machine learning, and interactive visualizations, the dashboard helps HR professionals identify trends, forecast staffing needs, and optimize talent management strategies. Designed for both strategic and operational use, the dashboard enhances transparency, supports organizational planning, and contributes to improved employee engagement and organizational performance.
 
 <h2> Overview Of Dashboad: </h2> 
-![Overview](https://github.com/user-attachments/assets/80cdfc33-4577-42bf-af6e-fd729288489c)
+
+![Overview](https://github.com/user-attachments/assets/771f7e16-75fc-4952-9fb1-6e1a9cfb817c)
+
 
 <h2>Requrement Analysis</h2>
 
