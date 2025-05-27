@@ -10,7 +10,8 @@ This HR Dashboard leverages data science techniques to provide comprehensive ins
 
 <h2> Overview Of Dashboad: </h2> 
 
-![Overview](https://github.com/user-attachments/assets/771f7e16-75fc-4952-9fb1-6e1a9cfb817c)
+![image](https://github.com/user-attachments/assets/72be3b07-26a8-4f2b-9e44-78a38dd5a212)
+
 
 
 <h2>Requrement Analysis</h2>
@@ -31,6 +32,7 @@ User Requirements
 
 
 Use Dataset:  <a href="https://github.com/aman74858/HR-Dashboard-in-Tableau/blob/main/HR%20dasboard%20short%20dataset.csv"> csv </a>
-![image](https://github.com/user-attachments/assets/1346d8d3-ba34-4587-9381-a1aa300dcec8)
+![image](https://github.com/user-attachments/assets/e5013f0e-1c17-4c61-aa61-bf5455e36e97)
+
 
 
