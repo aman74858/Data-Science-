@@ -30,4 +30,7 @@ User Requirements
   -An easy way to contact the user for potential opportunities.
 
 
-Use Dataset: <a href="https://github.com/aman74858/HR-Dashboard-in-Tableau/blob/main/HR%20dasboard%20short%20dataset.csv"> csv </a>
+Use Dataset:  <a href="https://github.com/aman74858/HR-Dashboard-in-Tableau/blob/main/HR%20dasboard%20short%20dataset.csv"> csv </a>
+![image](https://github.com/user-attachments/assets/1346d8d3-ba34-4587-9381-a1aa300dcec8)
+
+
