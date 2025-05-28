@@ -14,8 +14,8 @@ This project is based on an example of ABG Motors, a successful Japanese car man
 The company sees India as a key opportunity to expand its sales; it has been tracking the Indian market for over a few years. ABG Motors believes that the Indian market is quite similar to the Japanese market where the company currently operates. Before entering the new market, the company wants to be sure that the whole process will be profitable for them. Hence, you are given the task of ensuring the forecast of a minimum of 12,000 car sells over the sample data in one year.
 Since you can’t analyse the entire Indian and Chinese markets, the company has asked you to analyse sample data from two major cities, one from each country, to understand the sales pattern; which can be named as “Indian Dataset” & “Japanese
 
-Datase: <a href="">Indian Data </a> <br>
-        <a href ="">Japanese Data </a>
+Datase: <a href="https://github.com/aman74858/Data-Science-/blob/main/Excel%20data%20analysis%20for%20India%20and%20Japanese/JPN%20Data.xlsx">Indian Data </a> <br>
+        <a href ="https://github.com/aman74858/Data-Science-/blob/main/Excel%20data%20analysis%20for%20India%20and%20Japanese/JPN%20Data.xlsx">Japanese Data </a>
         
 
 The following results are expected at the end :
