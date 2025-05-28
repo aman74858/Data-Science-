@@ -28,8 +28,8 @@ The following results are expected at the end :
     participants will gain hands-on experience in
     data analysis and be better prepared for data analyst job roles.
     
-Dataset: Netflix_Originals 
-         Genre_Details
+Dataset: <a href=""> Netflix_Originals </a> 
+         <a href="https://github.com/aman74858/Data-Science-/blob/main/SQl/genre.csv">Genre_Details </a>
 
 Analyses to make:
   i.What are the average IMDb scores for each genre of Netflix Originals?
