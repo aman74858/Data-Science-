@@ -14,10 +14,6 @@ The company sees India as a key opportunity to expand its sales; it has been tra
 Since you can’t analyse the entire Indian and Chinese markets, the company has asked you to analyse sample data from two major cities, one from each country, to understand the sales pattern; which can be named as “Indian Dataset” & “Japanese
 
 
-<b>Steps to download the dataset:</b>
-
-Open the dataset by clicking the hyperlink with the names of the dataset. Click on ‘File’ at the top left corner.
-Click on ‘Download” and then on “Microsoft Excel (.xlsx). The data set will be downloaded as an Excel file.
 The following results are expected at the end :
 1. A classification model over the Japanese data set estimates if an individual is likely to buy a new phone based on the provided attributes.
 2.Based on the learning in the module, justification should be provided for all the decisions made while building the model.
