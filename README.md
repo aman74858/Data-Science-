@@ -28,7 +28,7 @@ The following results are expected at the end :
     participants will gain hands-on experience in
     data analysis and be better prepared for data analyst job roles.
     
-Dataset: <a href=""> Netflix_Originals </a> 
+Dataset: <a href="https://github.com/aman74858/Data-Science-/blob/main/SQl/Netflix_Originals%20-%20Netflix_Originals.csv"> Netflix_Originals </a> <br>
          <a href="https://github.com/aman74858/Data-Science-/blob/main/SQl/genre.csv">Genre_Details </a>
 
 Analyses to make:
